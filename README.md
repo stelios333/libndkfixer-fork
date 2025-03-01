@@ -22,3 +22,4 @@ This fixes the roblox app crashing inside Waydroid when using libndk_translation
 - Clone the repository with `--recursive` to pull the dobby submodule.
 - Run build.sh
 - The resulting built file `libndk_fixer.so` will be in the build directory.
+
